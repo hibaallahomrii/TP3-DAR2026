@@ -1,7 +1,4 @@
 # TP3 – Serveur Multi-threads : Sockets en mode connecté TCP
-
-Ce projet est réalisé dans le cadre du TP3 de la matière **Développement d’applications réparties**, durant l’année universitaire 2026–2027, à la Faculté des Sciences de Sfax[cite: 13].
-
 ---
 ## 📌 Activité 3-1 : Acceptation de plusieurs clients (Serveur Multi-thread)
 
