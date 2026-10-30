@@ -3,16 +3,6 @@
 Ce projet est réalisé dans le cadre du TP3 de la matière **Développement d’applications réparties**, durant l’année universitaire 2026–2027, à la Faculté des Sciences de Sfax[cite: 13].
 
 ---
-
-## 👥 Informations
-* **Matière :** Développement d’applications réparties[cite: 13]
-* **Auditoire :** LSI 3[cite: 13]
-* **Responsable du cours :** Amal ABID[cite: 13]
-* **Enseignante des TPs :** Zeineb DAOUD[cite: 13]
-* **Étudiante :** Hiba Allah Omri
-
----
-
 ## 📌 Activité 3-1 : Acceptation de plusieurs clients (Serveur Multi-thread)
 
 ### 1. Présentation et Objectifs
